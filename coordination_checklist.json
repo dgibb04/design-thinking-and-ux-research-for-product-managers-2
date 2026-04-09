@@ -1,0 +1,155 @@
+{
+  "workshop_title": "Design Thinking and UX Research for Product Managers",
+  "event_date": "November 14th",
+  "expected_attendees": 12,
+  "venue": "open plan coworking event space",
+  "pre_event_setup": [
+    {
+      "task": "Confirm venue power strip availability (1 per 2 seats) to ensure all 12 laptops can be charged.",
+      "deadline": "T-7 days",
+      "assigned_to": "organizer",
+      "priority": "high",
+      "status": "pending",
+      "notes": "Venue only provides 0.5 outlets per seat; extension cords are mandatory."
+    },
+    {
+      "task": "Finalize and print all workshop materials (Agendas, Interview Guides, Persona Cards, Feedback Templates).",
+      "deadline": "T-3 days",
+      "assigned_to": "organizer",
+      "priority": "high",
+      "status": "pending",
+      "notes": "No on-site printer; must be brought in hard copy."
+    },
+    {
+      "task": "Verify Miro board permissions and test access from a non-company network.",
+      "deadline": "T-2 days",
+      "assigned_to": "instructor",
+      "priority": "critical",
+      "status": "pending",
+      "notes": "Ensure all templates are duplicated and ready for 12 users."
+    }
+  ],
+  "venue_readiness": [
+    {
+      "task": "Test Wi-Fi stability for 12 simultaneous users.",
+      "deadline": "T-1 day",
+      "assigned_to": "organizer",
+      "priority": "high",
+      "status": "pending",
+      "notes": "Check for latency during Miro board loading."
+    },
+    {
+      "task": "Configure room layout to allow for pair-work and small group movement.",
+      "deadline": "T-0 (Morning of)",
+      "assigned_to": "organizer",
+      "priority": "medium",
+      "status": "pending",
+      "notes": "Open plan space requires clear separation to minimize noise during interviews."
+    }
+  ],
+  "attendee_communications": [
+    {
+      "task": "Send 'Pre-Workshop Checklist' email.",
+      "deadline": "T-5 days",
+      "assigned_to": "organizer",
+      "priority": "high",
+      "status": "pending",
+      "notes": "Include: Miro login verification, request to close non-essential apps, and bring laptop chargers."
+    }
+  ],
+  "day_of_runsheet": [
+    {
+      "time": "09:00 - 09:45",
+      "module": "Welcome and Design Thinking Foundations",
+      "type": "content",
+      "duration_minutes": 45,
+      "action_items": [
+        "Instructor delivers: Welcome and Design Thinking Foundations",
+        "Monitor time and signal 5-minute warning"
+      ]
+    },
+    {
+      "time": "09:45 - 11:00",
+      "module": "Empathise: Research Planning and Interviewing",
+      "type": "content",
+      "duration_minutes": 75,
+      "action_items": [
+        "Instructor delivers: Empathise: Research Planning and Interviewing",
+        "Monitor time and signal 5-minute warning"
+      ]
+    },
+    {
+      "time": "11:00 - 11:15",
+      "module": "Morning Coffee Break",
+      "type": "break",
+      "duration_minutes": 15,
+      "action_items": [
+        "Announce break duration",
+        "Ensure refreshments are available"
+      ]
+    },
+    {
+      "time": "11:15 - 12:30",
+      "module": "Define: Affinity Mapping and HMW Statements",
+      "type": "content",
+      "duration_minutes": 75,
+      "action_items": [
+        "Instructor delivers: Define: Affinity Mapping and HMW Statements",
+        "Monitor time and signal 5-minute warning"
+      ]
+    },
+    {
+      "time": "12:30 - 13:30",
+      "module": "Lunch Break",
+      "type": "lunch",
+      "duration_minutes": 60,
+      "action_items": [
+        "Direct attendees to lunch area",
+        "Verify afternoon AV setup during break"
+      ]
+    },
+    {
+      "time": "13:30 - 15:00",
+      "module": "Ideate and Prototype: Low-Fidelity Building",
+      "type": "content",
+      "duration_minutes": 90,
+      "action_items": [
+        "Instructor delivers: Ideate and Prototype: Low-Fidelity Building",
+        "Monitor time and signal 5-minute warning"
+      ]
+    },
+    {
+      "time": "15:00 - 15:15",
+      "module": "Afternoon Coffee Break",
+      "type": "break",
+      "duration_minutes": 15,
+      "action_items": [
+        "Announce break duration",
+        "Ensure refreshments are available"
+      ]
+    },
+    {
+      "time": "15:15 - 16:30",
+      "module": "Test and Sprint Integration",
+      "type": "content",
+      "duration_minutes": 75,
+      "action_items": [
+        "Instructor delivers: Test and Sprint Integration",
+        "Monitor time and signal 5-minute warning"
+      ]
+    },
+    {
+      "time": "16:30 - 17:00",
+      "module": "Wrap-up and Q&A",
+      "type": "wrap_up",
+      "duration_minutes": 30,
+      "action_items": [
+        "Distribute feedback forms",
+        "Share resource links and next steps",
+        "Thank attendees and instructors"
+      ]
+    }
+  ],
+  "conflict_resolutions": [],
+  "outstanding_items": []
+}
